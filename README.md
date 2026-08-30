@@ -1,8 +1,7 @@
-
 # Superstore Sales Analytics Dashboard - Power BI
 
 ## 📌 Dashboard Preview
-![Dashboard Screenshot](Screenshot (32).png)
+![Dashboard Screenshot](Screenshot%20(32).png)
 
 ---
 
