@@ -1,13 +1,24 @@
-# E-Commerce Data Analysis (SQL)
 
-## Overview
-This project performs end-to-end data analysis on e-commerce transaction data to understand customer spending behavior, rank top buyers, and track month-over-month revenue growth.
+# Superstore Sales Analytics Dashboard - Power BI
 
-## Tech Stack & SQL Concepts
-- **Database:** MySQL / PostgreSQL
-- **Key Concepts Used:** `INNER JOIN`, `GROUP BY`, `DENSE_RANK()`, `LAG()`, CTE (`WITH` clause).
+## 📌 Dashboard Preview
+![Dashboard Screenshot](Screenshot (32).png)
 
-## Business Questions Answered
-1. Who are our highest-spending customers?
-2. How many orders has each customer placed?
-3. What is the month-over-month sales revenue trend?
+---
+
+## 🚀 Project Overview
+This interactive Power BI dashboard provides an end-to-end sales analysis for a retail superstore. It enables business stakeholders to track overall performance, evaluate category metrics, and analyze seasonal/quarterly trends for strategic decision-making.
+
+The dashboard includes key metrics such as Total Sales ($2.30M), Quantity Sold (38K), and Total Profit ($286.40K).
+
+### 🔑 Key Features
+- **KPI Summary Cards:** Quick view of total metrics.
+- **Dynamic Slicers:** Interactive filters for **Order Date**, **Region**, and **State**.
+- **Quarterly Sales Trend:** Line visualization tracking sales progression across quarters.
+- **Categorical Breakdown:** Visual analysis of sales and profits across categories and sub-categories.
+
+---
+
+## 🛠️ Tools Used
+- **Power BI Desktop:** Data modeling, DAX calculations, and visual design.
+- **Excel / CSV:** Primary dataset containing transactional records.
